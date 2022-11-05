@@ -13,7 +13,7 @@ Usage: **Shellfh**
 Sodash is started with the standard input connected to the terminal. To start, compile all .c located in this repository by using this command: 
 ```
 gcc -Wall -Werror -Wextra -pedantic *.c -o shellfh
-./sodash
+./shellfh
 ```
 
 **Shellfh** is allowed to be invoked interactively and non-interactively. If **shellfh** is invoked with standard input not connected to a terminal, it reads and executes received commands in order.
