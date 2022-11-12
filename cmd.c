@@ -6,7 +6,7 @@
  * @command: first position of getline input.
  *
  * Return: string of folder for command to be executed.
- **/
+*/
 char *find_command(char *command)
 {
 	DIR *folder;
