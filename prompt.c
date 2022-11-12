@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * prompt - call prompt from another function (prompt)
- **/
+*/
 void prompt(void)
 {
 	for (;;)
