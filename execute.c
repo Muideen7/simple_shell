@@ -4,7 +4,7 @@
  * @cmd: a pointer the integer we want to set to 402
  *
  * Return: int
- */
+*/
 void execute_proc(char **cmd)
 {
 
