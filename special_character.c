@@ -4,7 +4,7 @@
  * lookforslash - identifies if first char is a slash.
  * @cmd: first string
  * Return: 1 if yes 0 if no.
- */
+*/
 int lookforslash(char *cmd)
 {
 	int cont = 0;
